@@ -54,6 +54,33 @@ main{
     padding-left: 10px;
 }
 
+section{
+    padding-top: 30px;
+}
+
+p, ul{
+    font-size: 22px;
+    font-weight: 500;
+}
+
+ul{
+    padding: 20px;
+}
+
+.tim-photo{
+    width: 720px;
+    height: 500px;
+}
+
 .photo-ref{
    font-size: 12px;
 }
+
+.highlighted{
+    background-color: yellow;
+}
+
+
+
+
+
