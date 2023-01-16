@@ -58,7 +58,7 @@ section{
     padding-top: 30px;
 }
 
-p, ul{
+p, ul, table{
     font-size: 22px;
     font-weight: 500;
 }
@@ -78,6 +78,26 @@ ul{
 
 .highlighted{
     background-color: yellow;
+}
+
+
+.table-head{
+    width: 350px;  
+}
+
+th{
+    width: 800px;
+    color: white;
+    background-color: #20A9E5;
+
+}
+
+.raw-color{
+    background-color: #B1E5F2;
+}
+
+th, .table-head{
+    text-align: left;
 }
 
 
