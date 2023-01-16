@@ -1,0 +1,40 @@
+*{
+   box-sizing: border-box;
+   margin: 0; 
+}
+
+h1{
+    margin-top: 30px;
+    font-weight: bolder;
+    font-size: 60px;
+}
+
+#back-logo{
+    height: 170px;
+    background-image: url(/img/pattern.png);
+    background-size: 700px 335px;
+    background-color: #4EA0FF;
+}
+
+#logo{
+    height: 80px;
+    margin-top: 70px;
+    margin-left: 10px;
+}
+
+#ref{
+    font-size: 26px;
+    font-weight: 600;
+    color: gray;
+}
+
+#date{
+    font-size: 18px;
+    font-weight: 600;
+    color: grey;
+}
+
+a{
+    text-decoration: none;
+    color: #4EA0FF;
+}
